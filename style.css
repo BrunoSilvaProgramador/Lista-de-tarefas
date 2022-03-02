@@ -206,15 +206,7 @@ p{
 .button_d:active {
     transform: scale(0.9);
 }
-.result{
-    width: 100%;
-    padding: 20px;
-    text-align: center;
-    margin: 10px;
-    font-size: 30px;
-    font-weight: bold;
-    color: rgb(152, 65, 252);
-}
+
 
 @media screen and ( max-width:768px ){
     .button_c {
